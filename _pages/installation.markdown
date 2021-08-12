@@ -2,6 +2,8 @@
 title: "Installation Instructions"
 permalink: /pages/installation
 date: 2021-08-08T10:31:00+02:00
+author: Bernhard Berger
+author_profile: true
 ---
 
 You can install *ArchSec* in your Eclipse by adding the *ArchSec Update Site* and

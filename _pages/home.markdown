@@ -2,6 +2,7 @@
 title: "Welcome to ArchSec"
 permalink : /
 layout: home
+author: Bernhard Berger
 author_profile: true
 ---
 
