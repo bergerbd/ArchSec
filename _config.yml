@@ -135,13 +135,10 @@ footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://informatik.uni-bremen.de/~berber"
-    - label: "0000-0001-6093-9229"
-      icon: "fab fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0001-6093-9229"
+      url: "https://archsec.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bergerbd"
+      url: "https://github.com/bergerbd/ArchSec"
 
 
 
