@@ -4,6 +4,7 @@ permalink : /
 layout: home
 author: Bernhard Berger
 author_profile: true
+classes: wide
 ---
 <style>
 .column {
