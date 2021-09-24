@@ -28,7 +28,9 @@ feature_row:
 
 {: .text-justify}
 
-Welcome to the home of *ArchSec*. *ArchSec* is the *Architectural Security Tool
+# Welcome to the home of *ArchSec*.
+
+*ArchSec* is the *Architectural Security Tool
 Suite* that automates Microsoft's Threat Modeling and makes architectural risk
 analysis more user-friendly. Therefore, it supports three key features:
 
