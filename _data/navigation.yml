@@ -3,6 +3,8 @@ main:
     url: /
   - title	: "Installation"
     url	   	: /pages/installation
+  - title	: "Publications"
+    url	   	: /pages/publications
 #  - title: "Posts"
 #    url: /year-archive/
 #  - title: "Categories"
