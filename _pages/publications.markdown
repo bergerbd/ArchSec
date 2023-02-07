@@ -10,11 +10,20 @@ classes: wide
 Since ArchSec is a research project, you can find several academic publications
 related to ArchSec here. Perhaps, these papers answer some questions you have.
 
+## 2023
+_Bernhard J. Berger and Goerschwin Fey_. **Towards: Threat Modeling in System
+Design**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungen
+und Systemen (TUZ), 2023 **(accepted for publication)**.
+
+## 2022
+_Bernhard J. Berger_. **Automatic detection of architectural security flaws**.
+Doctoral Thesis, 2022.
+
 ## 2021
 _Rodrigue W. Nguempnang, Bernhard J. Berger and Karsten Sohr_. **eNYPD - Entry
 Points Detector - Jakarta Server Faces Use Case**. In _Proceedings of the 21th
 IEEE International Working Conference on Source Code Analysis and Manipulation
-(SCAM)_, IEEE Computer Society Press, 2021 **(accepted for publication)**.
+(SCAM)_, IEEE Computer Society Press, 2021.
 
 ## 2020
 _Bernhard J. Berger, Rodrigue W. Nguempnang, Karsten Sohr and Rainer Koschke_.
