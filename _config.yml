@@ -111,7 +111,8 @@ footer:
       url: "https://archsec.de"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/bergerbd/ArchSec"
+      url: "https://gitlab.informatik.uni-bremen.de/software-security/threatmodeling-core"
+      # url: "https://github.com/bergerbd/ArchSec"
 
 # Reading Files
 include:
