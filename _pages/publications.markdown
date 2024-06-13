@@ -11,9 +11,12 @@ Since ArchSec is a research project, you can find several academic publications
 related to ArchSec here. Perhaps, these papers answer some questions you have.
 
 ## 2023
+_Bernhard J. Berger and Christina Plump_. **Automatic Security-Flaw Detection - Replication and Comparison**.
+In _Proceedings of the 26th International Conference on Model Driven Engineering Languages and Systems_, 2023.
+
 _Bernhard J. Berger and Goerschwin Fey_. **Towards: Threat Modeling in System
 Design**. GI/GMM/ITG-Workshop für Testmethoden und Zuverlässigkeit von Schaltungen
-und Systemen (TUZ), 2023 **(accepted for publication)**.
+und Systemen (TUZ), 2023 **(workshop contribution)**.
 
 ## 2022
 _Bernhard J. Berger_. **Automatic detection of architectural security flaws**.
